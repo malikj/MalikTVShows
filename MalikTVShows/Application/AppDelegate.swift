@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
     
+    // git mulitple account testing 
+    
     private func navigateToRootView() {
         setupNavigationColor()
         window = UIWindow()
